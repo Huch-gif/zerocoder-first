@@ -1,1 +1,4 @@
-print("test")
+print("не тест")
+number = 5
+
+
